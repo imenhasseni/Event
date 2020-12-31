@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "779879697193",
+    "firebase_url": "https://mobelite-events.firebaseio.com",
+    "project_id": "mobelite-events",
+    "storage_bucket": "mobelite-events.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779879697193:android:e0d600405593d29a1d8538",
+        "android_client_info": {
+          "package_name": "com.example.mobeliteevents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779879697193-ufrhp0heb63o3itue9sdobbjslnlce8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobeliteevents",
+            "certificate_hash": "8d7f3c01c9e56586323afd7ab49ce3f83ee419ad"
+          }
+        },
+        {
+          "client_id": "779879697193-1tkn51o4degu0vk1ti10lnj64s97i4eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUoB0V1WvJufxdRpPim2MP6ClYdXg_S-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779879697193-1tkn51o4degu0vk1ti10lnj64s97i4eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+rootProject.name='mobelite events'
+include ':app'
